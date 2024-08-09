@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.row {
+  margin: 20px 0;
+}
+
+button {
+  margin: 0 10px;
+}
